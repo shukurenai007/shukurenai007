@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I’m Shu Kurenai Team
 
-<!--
-**shukurenai007/shukurenai007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+- **❤️ Telegram Explorer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{shukurenai007}/count.svg)
+
+# Contact
+<p align="center">
+<a href="https://t.me/shukurenai007"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
+**Stats:**  
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shukurenai007&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shukurenai007&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
