@@ -1,3 +1,5 @@
+<a href="https://telegram.me/shukurenai007"><img align="center" src="http://telegra.ph/file/5f8343ba95004ce2d6dbd.jpg"/></a>
+
 ## Hi, I’m Shu Kurenai Team
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)
